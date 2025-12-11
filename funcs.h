@@ -1,9 +1,13 @@
 #ifndef FUNCS_H
 #define FUNCS_H
 
-void menu_item_1(void);
-void menu_item_2(void);
-void menu_item_3(void);
-void menu_item_4(void);
+// matrix addition
+void matrix_addition(void);
+// matrix multiplication
+void matrix_multiplication(void);
+// matrix transpose
+void matrix_transpose(void);
+// matrix determinant
+void matrix_determinant(void);
 
 #endif
